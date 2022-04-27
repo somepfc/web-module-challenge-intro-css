@@ -1,0 +1,101 @@
+
+
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+    font-family: 'Roboto Mono', monospace;
+}
+h1{
+    font-family: 'Chelsea Market', cursive;
+    font-size: 5rem;
+    width: 75rem;
+    border: 5%;
+    text-align: center;
+    margin-left: 5%;
+}
+section{
+    padding: 0 4%;
+    width: 90%;
+    margin: 0;
+}
+nav a{
+    display: inline-block;
+    padding-bottom: 20px;
+}
+.orange {
+    padding: 20px 0;
+    border-radius: 20px;
+    color: white;
+    margin-left: 10%;
+    background-color: #FF764E;
+    text-align: center;
+    width: 10%;
+}
+.blue {
+    padding: 20px 0;
+    border-radius: 20px;
+    color: white;
+    margin: 0 24%;
+    background-color: #5ED3EB;
+    text-align: center;
+    width: 10%;
+}
+.yellow {
+    padding: 20px 0;
+    border-radius: 20px;
+    color: white;
+    margin-right: 10%;
+    background-color: #FFCD69;
+    text-align: center;
+    width: 10%;
+}
+
+.learns{
+background: #DDB9A3 ;
+margin: 0 auto ;
+width: 90%;
+text-align: center;
+color: white;
+}
+.foot{
+    height: 400px;
+    width: 100%;
+    border-bottom-width: 60% ;
+}
+footer{
+    background:#F9E7DC ;
+    width: 100%;
+}
+.campfire{
+    height: 3in;
+    width: 3in;
+    margin: 0 40%;
+}
+.get p{
+    text-align: center;
+}
+.car{
+    height: 3in;
+    width: 3in;
+    margin: 0 40%;
+}
+
+.otheer, .thing{
+    display: inline-block;
+    padding: 5px;
+}
+.otheer{
+    border-radius: 50%;
+    width: 20%;
+    margin-left: 30px;
+   margin-top: 15px;
+
+ }
+ .thing{
+     width: 55%;
+     border: 5%;
+     text-align: center;
+     margin-left: 10%;
+ }
